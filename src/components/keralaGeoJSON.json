@@ -1,0 +1,120 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Sorghum",
+          "cultivation": "High"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [76.0, 10.0],
+              [77.0, 10.0],
+              [77.0, 11.0],
+              [76.0, 11.0],
+              [76.0, 10.0]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Chama",
+          "cultivation": "Moderate"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [76.5, 9.5],
+              [77.5, 9.5],
+              [77.5, 10.5],
+              [76.5, 10.5],
+              [76.5, 9.5]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bean Sprouts",
+          "cultivation": "High"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [75.5, 10.0],
+              [76.5, 10.0],
+              [76.5, 11.0],
+              [75.5, 11.0],
+              [75.5, 10.0]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Whole Black Gram",
+          "cultivation": "Low"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [76.0, 9.0],
+              [77.0, 9.0],
+              [77.0, 10.0],
+              [76.0, 10.0],
+              [76.0, 9.0]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Moong Dal",
+          "cultivation": "Moderate"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [75.5, 9.5],
+              [76.5, 9.5],
+              [76.5, 10.5],
+              [75.5, 10.5],
+              [75.5, 9.5]
+            ]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "White Pea Bean",
+          "cultivation": "High"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [76.5, 10.5],
+              [77.5, 10.5],
+              [77.5, 11.5],
+              [76.5, 11.5],
+              [76.5, 10.5]
+            ]
+          ]
+        }
+      }
+    ]
+  }
+  

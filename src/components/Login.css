@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.login-container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #fcfcfc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+    text-align: center;
+    margin-top: 100px; /* Adjust this value to bring the form further down */
+}
+.back {
+    background-image: url("/Users/artiya/Documents/app development/app1/src/assets/home/back.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top:100px;
+    padding-bottom:200px;
+}
+.login-container h2 {
+    margin-bottom: 20px;
+    color: #5d4037;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    color: #5d4037;
+}
+
+.form-group input {
+    width: calc(100% - 20px);
+    padding: 10px;
+    border: 1px solid #a1887f;
+    border-radius: 5px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #8d6e63;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #6d4c41;
+}
+
+p {
+    margin-top: 20px;
+    color: #5d4037;
+}
+
+p a {
+    color: #8d6e63;
+    text-decoration: none;
+}
+
+p a:hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+    .login-container {
+        margin-top: 50px; /* Less margin for smaller screens */
+    }
+}

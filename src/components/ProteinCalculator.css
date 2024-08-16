@@ -1,0 +1,45 @@
+.protein-calculator {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.protein-calculator h2 {
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+.input-field,
+.select-field {
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  width: 100%;
+}
+
+.calc-bt {
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  background-color: #8B4513; /* Set to SaddleBrown */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: 100%;
+}
+
+.calc-button:hover {
+  background-color: #A0522D; /* Set to Sienna for hover effect */
+}
+
+.protein-results {
+  margin-top: 20px;
+}
+
+.meal-distribution p {
+  margin: 5px 0;
+}
